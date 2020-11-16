@@ -2,11 +2,20 @@
 
 If you are interested in applications based on, inspired by, or similar to the CoronaWatchNL datasets, check out the following applications:
 
+## Corona map NL and World
+Current status and prognose for the Netherlands and the world:
+![NLWorldMap](NLWorldMap.PNG)
+[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiNjQwOTc0OTYtMzEwOC00ZDc0LWFjZjAtOTA2ZmI2OTQxYWYyIiwidCI6IjU1OTRjODBlLWRmNWYtNDgxNi1hMGIyLTg1NjhlMTVkMjY0YyIsImMiOjh9)
+
 ## Covid-Analytics
 Covid Analytics in the Netherlands:
 ![CovidAnalytics](CovidAnalytics.PNG)
 [https://covid-analytics.nl](https://covid-analytics.nl)
 
+## GebiedsMonitor
+Area monitor of COVID-19 in the Netherlands:
+![WZWkaart](wzwkaart.PNG)
+[https://covid19.wzwkaart.info/map/monitor](https://covid19.wzwkaart.info/map/monitor)
 
 ## Corona map
 Overview hospital intakes:
@@ -20,6 +29,12 @@ Summerizing Numbers of Corona:
 [https://corona.searchdata.com/search?savedref=VC03320](https://corona.searchdata.com/search?savedref=VC03320)
 
 
+## IC Dashboard
+Visualizing (IC) data about diagnosed, hospitalized and deceased COVID-19 cases:
+![ICDashboard](ICDashboard.PNG)
+[https://digitalewereld.shinyapps.io/IC_Data_Dashboard/](https://digitalewereld.shinyapps.io/IC_Data_Dashboard/)
+
+
 ## Rode Kruis
 Dynamic Spread of COVID:
 ![RodeKruis](RodeKruis.PNG)
@@ -31,6 +46,11 @@ Coronovirus in Netherlands Power BI report:
 ![PowerBI](PowerBI.PNG)
 [https://worktimesheet2014.blogspot.com/2020/03/coronovirus-in-netherlands-power-bi.html](https://worktimesheet2014.blogspot.com/2020/03/coronovirus-in-netherlands-power-bi.html)
 
+
+## Gemeente-wise daily new cases
+Gemeente-wise daily new cases:
+![GemeeteWiseDailyNewCasesScreeShot](GemeeteWiseDailyNewCasesScreeShot.png)
+[https://shadkam.github.io/jsutils/html/covnl01.html](https://shadkam.github.io/jsutils/html/covnl01.html)
 
 
 ## Interesting links

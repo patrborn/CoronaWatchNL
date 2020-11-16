@@ -1,0 +1,10 @@
+Datum,Bron,Geslacht,Type,Aantal,AantalCumulatief
+2020-07-14,RIVM_report_20200714,Man,Totaal,,19336
+2020-07-14,RIVM_report_20200714,Vrouw,Totaal,,31719
+2020-07-14,RIVM_report_20200714,Niet vermeld,Totaal,,91
+2020-07-14,RIVM_report_20200714,Man,Ziekenhuisopname,,7276
+2020-07-14,RIVM_report_20200714,Vrouw,Ziekenhuisopname,,4608
+2020-07-14,RIVM_report_20200714,Niet vermeld,Ziekenhuisopname,,8
+2020-07-14,RIVM_report_20200714,Man,Overleden,,3373
+2020-07-14,RIVM_report_20200714,Vrouw,Overleden,,2762
+2020-07-14,RIVM_report_20200714,Niet vermeld,Overleden,,0
